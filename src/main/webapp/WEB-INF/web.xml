@@ -1,30 +1,30 @@
-<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" version="3.1">
+<!--<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"-->
+         <!--xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+         <!--xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" version="3.1">-->
 
-  <display-name>TODO</display-name>
-  <description>
+  <!--<display-name>TODO</display-name>-->
+  <!--<description>-->
 
-  </description>
+  <!--</description>-->
 
-  <servlet>
-    <servlet-name>TODO</servlet-name>
-    <servlet-class>ua.goit.java.servlets.TODOServlet</servlet-class>
-  </servlet>
+  <!--<servlet>-->
+    <!--<servlet-name>TODO</servlet-name>-->
+    <!--<servlet-class>ua.goit.java.servlets.TODOServlet</servlet-class>-->
+  <!--</servlet>-->
 
-  <servlet>
-    <servlet-name>Clock</servlet-name>
-    <servlet-class>ua.goit.java.servlets.ClockServlet</servlet-class>
-  </servlet>
+  <!--<servlet>-->
+    <!--<servlet-name>Clock</servlet-name>-->
+    <!--<servlet-class>ua.goit.java.servlets.ClockServlet</servlet-class>-->
+  <!--</servlet>-->
 
-  <servlet-mapping>
-    <servlet-name>TODO</servlet-name>
-    <url-pattern>/todo</url-pattern>
-  </servlet-mapping>
+  <!--<servlet-mapping>-->
+    <!--<servlet-name>TODO</servlet-name>-->
+    <!--<url-pattern>/todo</url-pattern>-->
+  <!--</servlet-mapping>-->
 
-  <servlet-mapping>
-    <servlet-name>Clock</servlet-name>
-    <url-pattern>/todo/clock</url-pattern>
-  </servlet-mapping>
+  <!--<servlet-mapping>-->
+    <!--<servlet-name>Clock</servlet-name>-->
+    <!--<url-pattern>/todo/clock</url-pattern>-->
+  <!--</servlet-mapping>-->
 
-</web-app>
+<!--</web-app>-->
